@@ -1,1 +1,3 @@
-# pulse_sensor_with_lcd_arduino
+# Arduino Project
+
+###  USING HEARTBEAT SENSOR WITH ARDUINO AND DISPLAYING THE HEARTBEAT ON THE LCD DISPLAY
